@@ -1,0 +1,295 @@
+form_id,lexeme,cell,source_form,orth_form,analysed_orth_form,phon_form,analysed_phon_form,variants_tag,analysis_tag,overabundance_tag,source,page,language_id
+komkakchingmantak001,no_stem,1.sg,kei,kei,kei,k e i,k e i,unspecified,,,Kanshouwa2026Kakchingmantak,nopage,komkakchingmantak
+komkakchingmantak002,no_stem,1.pl.excl,keini,keini,kei+ni,k e i n i,k e i + n i,unspecified,,,Kanshouwa2026Kakchingmantak,nopage,komkakchingmantak
+komkakchingmantak003,no_stem,1.pl.incl,eini,eini,ei+ni,e i n i,e i + n i,unspecified,,,Kanshouwa2026Kakchingmantak,nopage,komkakchingmantak
+komkakchingmantak004,no_stem,2.sg,nang,nang,nang,n a ŋ,n a ŋ,unspecified,,,Kanshouwa2026Kakchingmantak,nopage,komkakchingmantak
+komkakchingmantak005,no_stem,2.pl,nangni,nangni,nang+ni,n a ŋ n i,n a ŋ + n i,unspecified,,,Kanshouwa2026Kakchingmantak,nopage,komkakchingmantak
+komkakchingmantak006,no_stem,3.sg,ama,ama,a+ma,a m a,a + m a,unspecified,,,Kanshouwa2026Kakchingmantak,nopage,komkakchingmantak
+komkakchingmantak007,no_stem,3.pl,anmani,anmani,a+n+ma+ni,a n m a n i,a + n + m a + n i,unspecified,,,Kanshouwa2026Kakchingmantak,nopage,komkakchingmantak
+komkakchingmantak008,che,1.sg.fut.aff,che-sik-kani,Σ-sik-kani,Σ+sik+ka+ni,Σ s i k k a n i,Σ + s i k + k a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak009,che,1.sg.fut.aff,che-ka-te,Σ-ka-te,Σ+ka+te,Σ k a t e,Σ + k a + t e,dialect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak010,che,1.pl.excl.fut.aff,che-sik-kinni,Σ-sik-kinni,Σ+sik+ki+n+ni,Σ s i k k i n n i,Σ + s i k + k i + n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak011,che,1.pl.excl.fut.aff,che-sik-kanni,Σ-sik-kanni,Σ+sik+ka+n+ni,Σ s i k k a n n i,Σ + s i k + k a + n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak012,che,1.pl.incl.fut.aff,che-sik-nani,Σ-sik-nani,Σ+sik+na+ni,Σ s i k n a n i,Σ + s i k + n a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak013,che,1.pl.incl.fut.aff,che-sik-nini,Σ-sik-nini,Σ+sik+ni+ni,Σ s i k n i n i,Σ + s i k + n i + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak014,mudang,1.sg.2.sg.fut.aff,na-mudang-sik-kani,na-Σ-sik-kani,na+Σ+sik+ka+ni,n a Σ s i k k a n i,n a + Σ + s i k + k a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak015,mudang,1.sg.2.pl.fut.aff,mudang-sik-kani,Σ-sik-kani,Σ+sik+ka+ni,Σ s i k k a n i,Σ + s i k + k a + n i,sociolect_var,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak016,mudang,1.sg.2.pl.fut.aff,na-mudang-sik-kani,na-Σ-sik-kani,na+Σ+sik+ka+ni,n a Σ s i k k a n i,n a + Σ + s i k + k a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak017,mudang,1.pl.excl.2.sg.fut.aff,na-mudang-sik-kanni,na-Σ-sik-kanni,na+Σ+sik+ka+n+ni,n a Σ s i k k a n n i,n a + Σ + s i k + k a + n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak018,mudang,1.pl.excl.2.sg.fut.aff,na-mudang-sik-kinni,na-Σ-sik-kinni,na+Σ+sik+ki+n+ni,n a Σ s i k k i n n i,n a + Σ + s i k + k i + n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak019,mudang,1.pl.excl.2.pl.fut.aff,mudang-sik-kanni,Σ-sik-kanni,Σ+sik+ka+n+ni,Σ s i k k a n n i,Σ + s i k + k a + n + n i,sociolect_var,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak020,mudang,1.pl.excl.2.pl.fut.aff,na-mudang-sik-kanni,na-Σ-sik-kanni,na+Σ+sik+ka+n+ni,n a Σ s i k k a n n i,n a + Σ + s i k + k a + n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak021,mudang,1.pl.excl.2.pl.fut.aff,na-mudang-sik-kinni,na-Σ-sik-kinni,na+Σ+sik+ki+n+ni,n a Σ s i k k i n n i,n a + Σ + s i k + k i + n + n i,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak022,mudang,1.sg.3.sg.fut.aff,mudang-sik-kani,Σ-sik-kani,Σ+sik+ka+ni,Σ s i k k a n i,Σ + s i k + k a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak023,mudang,1.sg.3.pl.fut.aff,mudang-sik-kani,Σ-sik-kani,Σ+sik+ka+ni,Σ s i k k a n i,Σ + s i k + k a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak024,mudang,1.pl.excl.3.sg.fut.aff,mudang-sik-kanni,Σ-sik-kanni,Σ+sik+kan+ni,Σ s i k k a n n i,Σ + s i k + k a n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak025,mudang,1.pl.excl.3.sg.fut.aff,mudang-sik-kinni,Σ-sik-kinni,Σ+sik+kin+ni,Σ s i k k i n n i,Σ + s i k + k i n + n i,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak026,mudang,1.pl.incl.3.sg.fut.aff,mudang-sik-nani,Σ-sik-nani,Σ+sik+na+ni,Σ s i k n a n i,Σ + s i k + n a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak027,mudang,1.pl.incl.3.sg.fut.aff,mudang-sik-nini,Σ-sik-nini,Σ+sik+ni+ni,Σ s i k n i n i,Σ + s i k + n i + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak028,mudang,1.pl.excl.3.pl.fut.aff,mudang-sik-kanni,Σ-sik-kanni,Σ+sik+ka+n+ni,Σ s i k k a n n i,Σ + s i k + k a + n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak029,mudang,1.pl.excl.3.pl.fut.aff,mudang-sik-kinni,Σ-sik-kinni,Σ+sik+ki+n+ni,Σ s i k k i n n i,Σ + s i k + k i + n + n i,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak030,mudang,1.pl.incl.3.pl.fut.aff,mudang-sik-nani,Σ-sik-nani,Σ+sik+na+ni,Σ s i k n a n i,Σ + s i k + n a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak031,mudang,1.pl.incl.3.pl.fut.aff,mudang-sik-nini,Σ-sik-nini,Σ+sik+ni+ni,Σ s i k n i n i,Σ + s i k + n i + n i,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak032,che,2.sg.fut.aff,che-sik-nani,Σ-sik-nani,Σ+sik+na+ni,Σ s i k n a n i,Σ + s i k + n a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak033,che,2.pl.fut.aff,che-sik-nanni,Σ-sik-nanni,Σ+sik+na+n+ni,Σ s i k n a n n i,Σ + s i k + n a + n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak034,che,2.pl.fut.aff,che-sik-ninni,Σ-sik-ninni,Σ+sik+ni+n+ni,Σ s i k n i n n i,Σ + s i k + n i + n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak035,mudang,2.sg.1.sg.fut.aff,na-mudang-sik-nani,na-Σ-sik-nani,na+Σ+sik+na+ni,n a Σ s i k n a n i,n a + Σ + s i k + n a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak036,mudang,2.sg.1.pl.excl.fut.aff,mudang-sik-nani,Σ-sik-nani,Σ+sik+na+ni,Σ s i k n a n i,Σ + s i k + n a + n i,sociolect_var,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak037,mudang,2.sg.1.pl.excl.fut.aff,na-mudang-sik-nani,na-Σ-sik-nani,na+Σ+sik+na+ni,n a Σ s i k n a n i,n a + Σ + s i k + n a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak038,mudang,2.pl.1.sg.fut.aff,na-mudang-sik-nanni,na-Σ-sik-nanni,na+Σ+sik+na+n+ni,n a Σ s i k n a n n i,n a + Σ + s i k + n a + n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak039,mudang,2.pl.1.sg.fut.aff,na-mudang-sik-ninni,na-Σ-sik-ninni,na+Σ+sik+ni+n+ni,n a Σ s i k n i n n i,n a + Σ + s i k + n i + n + n i,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak040,mudang,2.pl.1.pl.excl.fut.aff,mudang-sik-nanni,Σ-sik-nanni,Σ+sik+na+n+ni,Σ s i k n a n n i,Σ + s i k + n a + n + n i,sociolect_var,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak041,mudang,2.pl.1.pl.excl.fut.aff,na-mudang-sik-nanni,na-Σ-sik-nanni,na+Σ+sik+na+n+ni,n a Σ s i k n a n n i,n a + Σ + s i k + n a + n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak042,mudang,2.pl.1.pl.excl.fut.aff,na-mudang-sik-ninni,na-Σ-sik-ninni,na+Σ+sik+ni+n+ni,n a Σ s i k n i n n i,n a + Σ + s i k + n i + n + n i,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak043,mudang,2.sg.3.sg.fut.aff,mudang-sik-nani,Σ-sik-nani,Σ+sik+na+ni,Σ s i k n a n i,Σ + s i k + n a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak044,mudang,2.sg.3.pl.fut.aff,mudang-sik-nani,Σ-sik-nani,Σ+sik+na+ni,Σ s i k n a n i,Σ + s i k + n a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak045,mudang,2.pl.3.sg.fut.aff,mudang-sik-nanni,Σ-sik-nanni,Σ+sik+na+n+ni,Σ s i k n a n n i,Σ + s i k + n a + n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak046,mudang,2.pl.3.sg.fut.aff,mudang-sik-ninni,Σ-sik-ninni,Σ+sik+ni+n+ni,Σ s i k n i n n i,Σ + s i k + n i + n + n i,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak047,mudang,2.pl.3.pl.fut.aff,mudang-sik-nanni,Σ-sik-nanni,Σ+sik+na+n+ni,Σ s i k n a n n i,Σ + s i k + n a + n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak048,mudang,2.pl.3.pl.fut.aff,mudang-sik-ninni,Σ-sik-ninni,Σ+sik+ni+n+ni,Σ s i k n i n n i,Σ + s i k + n i + n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak049,che,3.sg.fut.aff,che-sik-ani,Σ-sik-ani,Σ+sik+a+ni,Σ s i k a n i,Σ + s i k + a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak050,che,3.sg.fut.aff,che-te,Σ-te,Σ+te,Σ t e,Σ + t e,dialect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak051,che,3.sg.fut.aff,che-sik-ni,Σ-sik-ni,Σ+sik+ni,Σ s i k n i,Σ + s i k + n i,unspecified,,optional_third,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak052,che,3.pl.fut.aff,che-sik-anni,Σ-sik-anni,Σ+sik+an+ni,Σ s i k a n n i,Σ + s i k + a n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak053,che,3.pl.fut.aff,che-an-te,Σ-an-te,Σ+an+te,Σ a n t e,Σ + a n + t e,dialect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak054,mudang,3.sg.1.sg.fut.aff,na-mudang-sik-ni,na-Σ-sik-ni,na+Σ+sik+ni,n a Σ s i k n i,n a + Σ + s i k + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak055,mudang,3.sg.1.pl.excl.fut.aff,mudang-sik-ni,Σ-sik-ni,Σ+sik+ni,Σ s i k n i,Σ + s i k + n i,unspecified,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak056,mudang,3.sg.1.pl.excl.fut.aff,na-mudang-sik-ni,na-Σ-sik-ni,na+Σ+sik+ni,n a Σ s i k n i,n a + Σ + s i k + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak057,mudang,3.sg.1.pl.incl.fut.aff,na-mudang-sik-ni,na-Σ-sik-ni,na+Σ+sik+ni,n a Σ s i k n i,n a + Σ + s i k + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak058,mudang,3.pl.1.sg.fut.aff,na-mudang-sik-anni,na-Σ-sik-anni,na+Σ+sik+an+ni,n a Σ s i k a n n i,n a + Σ + s i k + a n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak059,mudang,3.pl.1.pl.excl.fut.aff,mudang-sik-anni,Σ-sik-anni,Σ+sik+an+ni,Σ s i k a n n i,Σ + s i k + a n + n i,sociolect_var,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak060,mudang,3.pl.1.pl.excl.fut.aff,na-mudang-sinni,na-Σ-sinni,na+mudang+sin+ni,n a m u d a ŋ s i n n i,n a + m u d a ŋ + s i n + n i,sociolect_var,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak061,mudang,3.pl.1.pl.excl.fut.aff,na-mudang-sik-anni,na-Σ-sik-anni,na+Σ+sik+an+ni,n a Σ s i k a n n i,n a + Σ + s i k + a n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak062,mudang,3.pl.1.pl.incl.fut.aff,na-mudang-sik-anni,na-Σ-sik-anni,na+Σ+sik+an+ni,n a Σ s i k a n n i,n a + Σ + s i k + a n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak063,mudang,3.pl.1.pl.incl.fut.aff,ni-mudang-sik-anni,ni-Σ-sik-anni,ni+Σ+sik+an+ni,n i Σ s i k a n n i,n i + Σ + s i k + a n + n i,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak064,mudang,3.sg.2.sg.fut.aff,na-mudang-sik-ni,na-Σ-sik-ni,na+Σ+sik+ni,n a Σ s i k n i,n a + Σ + s i k + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak065,mudang,3.sg.2.pl.fut.aff,na-mudang-sik-ni,na-Σ-sik-ni,na+Σ+sik+ni,n a Σ s i k n i,n a + Σ + s i k + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak066,mudang,3.pl.2.sg.fut.aff,na-mudang-sik-anni,na-Σ-sik-anni,na+Σ+sik+an+ni,n a Σ s i k a n n i,n a + Σ + s i k + a n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak067,mudang,3.pl.2.pl.fut.aff,na-mudang-sik-anni,na-Σ-sik-anni,na+Σ+sik+an+ni,n a Σ s i k a n n i,n a + Σ + s i k + a n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak068,mudang,3.sg.3.sg.fut.aff,mudang-sik-ni,Σ-sik-ni,Σ+sik+ni,Σ s i k n i,Σ + s i k + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak069,mudang,3.sg.3.pl.fut.aff,mudang-sik-ni,Σ-sik-ni,Σ+sik+ni,Σ s i k n i,Σ + s i k + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak070,mudang,3.pl.3.sg.fut.aff,mudang-sik-anni,Σ-sik-anni,Σ+sik+an+ni,Σ s i k a n n i,Σ + s i k + a n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak071,mudang,3.pl.3.pl.fut.aff,mudang-sik-anni,Σ-sik-anni,Σ+sik+an+ni,Σ s i k a n n i,Σ + s i k + a n + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak072,che,1.sg.fut.neg,che-no-na-ing,Σ-no-na-ing,Σ+no+na+ing,Σ n o n a i ŋ,Σ + n o + n a + i ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak073,che,1.sg.fut.neg,che-no-ning,Σ-no-ning,Σ+no+n+ing,Σ n o n i ŋ,Σ + n o + n + i ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak074,che,1.pl.excl.fut.neg,che-no-na-ung,Σ-no-na-ung,Σ+no+na+ung,Σ n o n a u ŋ,Σ + n o + n a + u ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak075,che,1.pl.excl.fut.neg,che-no-nung,Σ-no-nung,Σ+no+n+ung,Σ n o n u ŋ,Σ + n o + n + u ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak076,che,1.pl.incl.fut.neg,che-no-sing,Σ-no-sing,Σ+no+s+ing,Σ n o s i ŋ,Σ + n o + s + i ŋ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak077,mudang,1.sg.2.sg.fut.neg,na-mudang-no-na-ing,na-Σ-no-na-ing,na+Σ+no+na+ing,n a Σ n o n a i ŋ,n a + Σ + n o + n a + i ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak078,mudang,1.sg.2.sg.fut.neg,na-mudang-no-ning,na-Σ-no-ning,na+Σ+no+n+ing,n a Σ n o n i ŋ,n a + Σ + n o + n + i ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak079,mudang,1.sg.2.pl.fut.neg,mudang-no-na-ing,Σ-no-na-ing,Σ+no+na+ing,Σ n o n a i ŋ,Σ + n o + n a + i ŋ,sociolect_var,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak080,mudang,1.sg.2.pl.fut.neg,mudang-no-ning,Σ-no-ning,Σ+no+n+ing,Σ n o n i ŋ,Σ + n o + n + i ŋ,sociolect_var,fusion,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak081,mudang,1.sg.2.pl.fut.neg,na-mudang-no-na-ing,na-Σ-no-na-ing,na+Σ+no+na+ing,n a Σ n o n a i ŋ,n a + Σ + n o + n a + i ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak082,mudang,1.sg.2.pl.fut.neg,na-mudang-no-ning,na-Σ-no-ning,na+Σ+no+n+ing,n a Σ n o n i ŋ,n a + Σ + n o + n + i ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak083,mudang,1.sg.3.pl.fut.neg,mudang-no-ning,Σ-no-ning,Σ+no+n+ing,Σ n o n i ŋ,Σ + n o + n + i ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak084,mudang,1.sg.3.pl.fut.neg,mudang-no-na-ing,Σ-no-na-ing,Σ+no+na+ing,Σ n o n a i ŋ,Σ + n o + n a + i ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak085,mudang,1.pl.excl.2.sg.fut.neg,na-mudang-no-na-ung,na-Σ-no-na-ung,na+Σ+no+na+ung,n a Σ n o n a u ŋ,n a + Σ + n o + n a + u ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak086,mudang,1.pl.excl.2.sg.fut.neg,na-mudang-no-nung,na-Σ-no-nung,na+Σ+no+n+ung,n a Σ n o n u ŋ,n a + Σ + n o + n + u ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak087,mudang,1.pl.excl.2.pl.fut.neg,mudang-no-na-ung,Σ-no-na-ung,Σ+no+na+ung,Σ n o n a u ŋ,Σ + n o + n a + u ŋ,sociolect_var,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak088,mudang,1.pl.excl.2.pl.fut.neg,mudang-no-nung,Σ-no-nung,Σ+no+n+ung,Σ n o n u ŋ,Σ + n o + n + u ŋ,sociolect_var,fusion,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak089,mudang,1.pl.excl.2.pl.fut.neg,na-mudang-no-na-ung,na-Σ-no-na-ung,na+Σ+no+na+ung,n a Σ n o n a u ŋ,n a + Σ + n o + n a + u ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak090,mudang,1.pl.excl.2.pl.fut.neg,na-mudang-no-nung,na-Σ-no-nung,na+Σ+no+n+ung,n a Σ n o n u ŋ,n a + Σ + n o + n + u ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak091,mudang,1.sg.3.sg.fut.neg,mudang-no-na-ing,Σ-no-na-ing,Σ+no+na+ing,Σ n o n a i ŋ,Σ + n o + n a + i ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak092,mudang,1.sg.3.sg.fut.neg,mudang-no-ning,Σ-no-ning,Σ+no+n+ing,Σ n o n i ŋ,Σ + n o + n + i ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak093,mudang,1.pl.excl.3.sg.fut.neg,mudang-no-na-ung,Σ-no-na-ung,Σ+no+na+ung,Σ n o n a u ŋ,Σ + n o + n a + u ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak094,mudang,1.pl.excl.3.sg.fut.neg,mudang-no-nung,Σ-no-nung,Σ+no+n+ung,Σ n o n u ŋ,Σ + n o + n + u ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak095,mudang,1.pl.incl.3.sg.fut.neg,mudang-no-sing,Σ-no-sing,Σ+no+s+ing,Σ n o s i ŋ,Σ + n o + s + i ŋ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak096,mudang,1.pl.excl.3.pl.fut.neg,mudang-no-na-ung,Σ-no-na-ung,Σ+no+na+ung,Σ n o n a u ŋ,Σ + n o + n a + u ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak097,mudang,1.pl.excl.3.pl.fut.neg,mudang-no-nung,Σ-no-nung,Σ+no+n+ung,Σ n o n u ŋ,Σ + n o + n + u ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak098,mudang,1.pl.incl.3.pl.fut.neg,mudang-no-sing,Σ-no-sing,Σ+no+s+ing,Σ n o s i ŋ,Σ + n o + s + i ŋ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak099,che,2.sg.fut.neg,che-no-ta-ni,Σ-no-ta-ni,Σ+no+ta+ni,Σ n o t a n i,Σ + n o + t a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak100,che,2.pl.fut.neg,che-no-ta-na-u,Σ-no-ta-na-u,Σ+no+ta+na+u,Σ n o t a n a u,Σ + n o + t a + n a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak101,che,2.pl.fut.neg,che-no-ta-nu,Σ-no-ta-nu,Σ+no+ta+n+u,Σ n o t a n u,Σ + n o + t a + n + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak102,mudang,2.sg.1.sg.fut.neg,na-mudang-no-ta-ni,na-Σ-no-ta-ni,na+Σ+no+ta+ni,n a Σ n o t a n i,n a + Σ + n o + t a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak103,mudang,2.sg.1.pl.excl.fut.neg,na-mudang-no-ta-ni,na-Σ-no-ta-ni,na+Σ+no+ta+ni,n a Σ n o t a n i,n a + Σ + n o + t a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak104,mudang,2.pl.1.sg.fut.neg,na-mudang-no-ta-na-u,na-Σ-no-ta-na-u,na+Σ+no+ta+na+u,n a Σ n o t a n a u,n a + Σ + n o + t a + n a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak105,mudang,2.pl.1.sg.fut.neg,na-mudang-no-ta-nu,na-Σ-no-ta-nu,na+Σ+no+ta+n+u,n a Σ n o t a n u,n a + Σ + n o + t a + n + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak106,mudang,2.pl.1.pl.excl.fut.neg,na-mudang-no-ta-na-u,na-Σ-no-ta-na-u,na+Σ+no+ta+na+u,n a Σ n o t a n a u,n a + Σ + n o + t a + n a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak107,mudang,2.pl.1.pl.excl.fut.neg,mudang-no-ta-na-u,Σ-no-ta-na-u,Σ+no+ta+na+u,Σ n o t a n a u,Σ + n o + t a + n a + u,sociolect_var,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak108,mudang,2.pl.1.pl.excl.fut.neg,na-mudang-no-ta-nu,na-Σ-no-ta-nu,na+Σ+no+ta+n+u,n a Σ n o t a n u,n a + Σ + n o + t a + n + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak109,mudang,2.sg.3.sg.fut.neg,mudang-no-ta-ni,Σ-no-ta-ni,Σ+no+ta+ni,Σ n o t a n i,Σ + n o + t a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak110,mudang,2.sg.3.pl.fut.neg,mudang-no-ta-ni,Σ-no-ta-ni,Σ+no+ta+ni,Σ n o t a n i,Σ + n o + t a + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak111,mudang,2.pl.3.sg.fut.neg,mudang-no-ta-na-u,Σ-no-ta-na-u,Σ+no+ta+na+u,Σ n o t a n a u,Σ + n o + t a + n a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak112,mudang,2.pl.3.sg.fut.neg,mudang-no-ta-nu,Σ-no-ta-nu,Σ+no+ta+n+u,Σ n o t a n u,Σ + n o + t a + n + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak113,mudang,2.pl.3.pl.fut.neg,mudang-no-ta-na-u,Σ-no-ta-na-u,Σ+no+ta+na+u,Σ n o t a n a u,Σ + n o + t a + n a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak114,mudang,2.pl.3.pl.fut.neg,mudang-no-ta-nu,Σ-no-ta-nu,Σ+no+ta+n+u,Σ n o t a n u,Σ + n o + t a + n + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak115,che,3.sg.fut.neg,che-no-ni,Σ-no-ni,Σ+no+ni,Σ n o n i,Σ + n o + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak116,che,3.pl.fut.neg,che-no-na-u,Σ-no-na-u,Σ+no+na+u,Σ n o n a u,Σ + n o + n a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak117,che,3.pl.fut.neg,che-no-nu,Σ-no-nu,Σ+no+n+u,Σ n o n u,Σ + n o + n + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak118,mudang,3.sg.1.sg.fut.neg,na-mudang-no-ni,na-Σ-no-ni,na+Σ+no+ni,n a Σ n o n i,n a + Σ + n o + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak119,mudang,3.sg.1.pl.excl.fut.neg,mudang-no-ni,Σ-no-ni,Σ+no+ni,Σ n o n i,Σ + n o + n i,sociolect_var,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak120,mudang,3.sg.1.pl.excl.fut.neg,na-mudang-no-ni,na-Σ-no-ni,na+Σ+no+ni,n a Σ n o n i,n a + Σ + n o + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak121,mudang,3.sg.1.pl.incl.fut.neg,na-mudang-no-ni,na-Σ-no-ni,na+Σ+no+ni,n a Σ n o n i,n a + Σ + n o + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak122,mudang,3.pl.1.sg.fut.neg,na-mudang-no-na-u,na-Σ-no-na-u,na+Σ+no+na+u,n a Σ n o n a u,n a + Σ + n o + n a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak123,mudang,3.pl.1.sg.fut.neg,na-mudang-no-nu,na-Σ-no-nu,na+Σ+no+n+u,n a Σ n o n u,n a + Σ + n o + n + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak124,mudang,3.pl.1.pl.excl.fut.neg,na-mudang-no-na-u,na-Σ-no-na-u,na+Σ+no+na+u,n a Σ n o n a u,n a + Σ + n o + n a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak125,mudang,3.pl.1.pl.excl.fut.neg,na-mudang-no-nu,na-Σ-no-nu,na+Σ+no+n+u,n a Σ n o n u,n a + Σ + n o + n + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak126,mudang,3.pl.1.pl.incl.fut.neg,na-mudang-no-na-u,na-Σ-no-na-u,na+Σ+no+na+u,n a Σ n o n a u,n a + Σ + n o + n a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak127,mudang,3.pl.1.pl.incl.fut.neg,ni-mudang-no-na-u,ni-Σ-no-na-u,ni+Σ+no+na+u,n i Σ n o n a u,n i + Σ + n o + n a + u,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak128,mudang,3.pl.1.pl.incl.fut.neg,na-mudang-no-nu,na-Σ-no-nu,na+Σ+no+n+u,n a Σ n o n u,n a + Σ + n o + n + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak129,mudang,3.sg.2.sg.fut.neg,na-mudang-no-ni,na-Σ-no-ni,na+Σ+no+ni,n a Σ n o n i,n a + Σ + n o + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak130,mudang,3.sg.2.pl.fut.neg,na-mudang-no-ni,na-Σ-no-ni,na+Σ+no+ni,n a Σ n o n i,n a + Σ + n o + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak131,mudang,3.pl.2.sg.fut.neg,na-mudang-no-na-u,na-Σ-no-na-u,na+Σ+no+na+u,n a Σ n o n a u,n a + Σ + n o + n a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak132,mudang,3.pl.2.sg.fut.neg,na-mudang-no-nu,na-Σ-no-nu,na+Σ+no+n+u,n a Σ n o n u,n a + Σ + n o + n + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak133,mudang,3.pl.2.pl.fut.neg,na-mudang-no-na-u,na-Σ-no-na-u,na+Σ+no+na+u,n a Σ n o n a u,n a + Σ + n o + n a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak134,mudang,3.pl.2.pl.fut.neg,na-mudang-no-nu,na-Σ-no-nu,na+Σ+no+n+u,n a Σ n o n u,n a + Σ + n o + n + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak135,mudang,3.sg.3.sg.fut.neg,mudang-no-ni,Σ-no-ni,Σ+no+ni,Σ n o n i,Σ + n o + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak136,mudang,3.sg.3.pl.fut.neg,mudang-no-ni,Σ-no-ni,Σ+no+ni,Σ n o n i,Σ + n o + n i,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak137,mudang,3.pl.3.sg.fut.neg,mudang-no-na-u,Σ-no-na-u,Σ+no+na+u,Σ n o n a u,Σ + n o + n a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak138,mudang,3.pl.3.sg.fut.neg,mudang-no-nu,Σ-no-nu,Σ+no+n+u,Σ n o n u,Σ + n o + n + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak139,mudang,3.pl.3.pl.fut.neg,mudang-no-na-u,Σ-no-na-u,Σ+no+na+u,Σ n o n a u,Σ + n o + n a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak140,mudang,3.pl.3.pl.fut.neg,mudang-no-nu,Σ-no-nu,Σ+no+n+u,Σ n o n u,Σ + n o + n + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak141,che,1.sg.nfut.aff,ka-che,ka-Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak142,che,1.pl.excl.nfut.aff,kin-che,kin-Σ,ki+n+Σ,k i n Σ,k i + n + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak143,che,1.pl.excl.nfut.aff,kan-che,kan-Σ,ka+n+Σ,k a n Σ,k a + n + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak144,che,1.pl.incl.nfut.aff,ni-che,ni-Σ,ni+Σ,n i Σ,n i + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak145,mudang,1.sg.2.sg.nfut.aff,ka-na-mudang,ka-na-Σ,ka+na+Σ,k a n a Σ,k a + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak146,mudang,1.sg.2.sg.nfut.aff,kaa-mudang,kaa-Σ,kaa+Σ,k aa Σ,k aa + Σ,sociolect_var,fusion,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak147,mudang,1.sg.2.pl.nfut.aff,ka-na-mudang,ka-na-Σ,ka+na+Σ,k a n a Σ,k a + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak148,mudang,1.sg.2.pl.nfut.aff,kaa-mudang,kaa-Σ,kaa+Σ,k aa Σ,k aa + Σ,sociolect_var,fusion,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak149,mudang,1.pl.excl.2.sg.nfut.aff,kan-na-mudang,kan-na-Σ,ka+n+na+Σ,k a n n a Σ,k a + n + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak150,mudang,1.pl.excl.2.sg.nfut.aff,kin-na-mudang,kin-na-Σ,ki+n+na+Σ,k i n n a Σ,k i + n + n a + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak151,mudang,1.pl.excl.2.sg.nfut.aff,kaa-mudang,kaa-Σ,kaa+Σ,k aa Σ,k aa + Σ,sociolect_var,fusion,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak152,mudang,1.pl.excl.2.sg.nfut.aff,kan-mudang,kan-Σ,ka+n+Σ,k a n Σ,k a + n + Σ,sociolect_var,fusion,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak153,mudang,1.pl.excl.2.pl.nfut.aff,kan-na-mudang,kan-na-Σ,ka+n+na+Σ,k a n n a Σ,k a + n + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak154,mudang,1.pl.excl.2.pl.nfut.aff,kin-na-mudang,kin-na-Σ,ki+n+na+Σ,k i n n a Σ,k i + n + n a + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak155,mudang,1.pl.excl.2.pl.nfut.aff,kan-mudang,kan-Σ,ka+n+Σ,k a n Σ,k a + n + Σ,sociolect_var,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak156,mudang,1.pl.excl.2.pl.nfut.aff,kin-mudang,kin-Σ,ki+n+Σ,k i n Σ,k i + n + Σ,sociolect_var,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak157,mudang,1.pl.excl.2.pl.nfut.aff,kaa-mudang,kaa-Σ,kaa+Σ,k aa Σ,k aa + Σ,sociolect_var,fusion,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak158,mudang,1.sg.3.sg.nfut.aff,ka-mudang,ka-Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak159,mudang,1.sg.3.pl.nfut.aff,kaa-mudang,kaa-Σ,kaa+Σ,k aa Σ,k aa + Σ,sociolect_var,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak160,mudang,1.pl.excl.3.sg.nfut.aff,kan-mudang,kan-Σ,ka+n+Σ,k a n Σ,k a + n + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak161,mudang,1.pl.excl.3.sg.nfut.aff,kin-mudang,kin-Σ,ki+n+Σ,k i n Σ,k i + n + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak162,mudang,1.pl.excl.3.sg.nfut.aff,kaa-mudang,kaa-Σ,kaa+Σ,k aa Σ,k aa + Σ,sociolect_var,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak163,mudang,1.pl.incl.3.sg.nfut.aff,na-mudang,na-Σ,na+Σ,n a Σ,n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak164,mudang,1.pl.incl.3.sg.nfut.aff,ni-mudang,ni-Σ,ni+Σ,n i Σ,n i + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak165,mudang,1.pl.excl.3.pl.nfut.aff,kan-mudang,kan-Σ,ka+n+Σ,k a n Σ,k a + n + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak166,mudang,1.pl.excl.3.pl.nfut.aff,kin-mudang,kin-Σ,ki+n+Σ,k i n Σ,k i + n + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak167,mudang,1.pl.excl.3.pl.nfut.aff,kaa-mudang,kaa-Σ,kaa+Σ,k aa Σ,k aa + Σ,sociolect_var,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak168,mudang,1.pl.incl.3.pl.nfut.aff,na-mudang,na-Σ,na+Σ,n a Σ,n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak169,mudang,1.pl.incl.3.pl.nfut.aff,ni-mudang,ni-Σ,na+Σ,n a Σ,n a + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak170,che,2.sg.nfut.aff,na-che,na-Σ,na+Σ,n a Σ,n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak171,che,2.pl.nfut.aff,nin-che,nin-Σ,ni+n+Σ,n i n Σ,n i + n + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak172,che,2.pl.nfut.aff,nan-che,nan-Σ,na+n+Σ,n a n Σ,n a + n + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak173,mudang,2.sg.1.sg.nfut.aff,naa-mudang,naa-Σ,naa+Σ,n aa Σ,n aa + Σ,sociolect_var,fusion,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak174,mudang,2.sg.1.sg.nfut.aff,na-na-mudang,na-na-Σ,na+na+Σ,n a n a Σ,n a + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak175,mudang,2.sg.1.pl.excl.nfut.aff,na-na-mudang,na-na-Σ,na+na+Σ,n a n a Σ,n a + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak176,mudang,2.sg.1.pl.excl.nfut.aff,naa-mudang,naa-Σ,naa+Σ,n aa Σ,n aa + Σ,sociolect_var,fusion,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak177,mudang,2.pl.1.sg.nfut.aff,nan-na-mudang,nan-na-Σ,na+n+na+Σ,n a n n a Σ,n a + n + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak178,mudang,2.pl.1.sg.nfut.aff,nin-na-mudang,nin-na-Σ,ni+n+na+Σ,n i n n a Σ,n i + n + n a + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak179,mudang,2.pl.1.sg.nfut.aff,nan-mudang,nan-Σ,na+n+Σ,n a n Σ,n a + n + Σ,unspecified,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak180,mudang,2.pl.1.pl.excl.nfut.aff,nan-na-mudang,nan-na-Σ,na+n+na+Σ,n a n n a Σ,n a + n + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak181,mudang,2.pl.1.pl.excl.nfut.aff,nin-na-mudang,nin-na-Σ,ni+n+na+Σ,n i n n a Σ,n i + n + n a + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak182,mudang,2.pl.1.pl.excl.nfut.aff,nan-mudang,nan-Σ,na+n+Σ,n a n Σ,n a + n + Σ,unspecified,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak183,mudang,2.sg.3.sg.nfut.aff,na-mudang,na-Σ,na+Σ,n a Σ,n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak184,mudang,2.sg.3.pl.nfut.aff,na-mudang,na-Σ,na+Σ,n a Σ,n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak185,mudang,2.pl.3.sg.nfut.aff,nan-mudang,nan-Σ,na+n+Σ,n a n Σ,n a + n + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak186,mudang,2.pl.3.sg.nfut.aff,nin-mudang,nin-Σ,ni+n+Σ,n i n Σ,n i + n + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak187,mudang,2.pl.3.pl.nfut.aff,nan-mudang,nan-Σ,na+n+Σ,n a n Σ,n a + n + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak188,mudang,2.pl.3.pl.nfut.aff,nin-mudang,nin-Σ,ni+n+Σ,n i n Σ,n i + n + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak189,che,3.sg.nfut.aff,a-che,a-Σ,a+Σ,a Σ,a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak190,che,3.pl.nfut.aff,an-che,an-Σ,an+Σ,a n Σ,a n + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak191,che,3.pl.nfut.aff,in-che,in-Σ,in+Σ,i n Σ,i n + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak192,mudang,3.sg.1.sg.nfut.aff,aa-mudang,aa-Σ,aa+Σ,aa Σ,aa + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak193,mudang,3.sg.1.pl.excl.nfut.aff,a-na-mudang,a-na-Σ,a+na+Σ,a n a Σ,a + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak194,mudang,3.sg.1.pl.excl.nfut.aff,aa-mudang,aa-Σ,aa+Σ,aa Σ,aa + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak195,mudang,3.sg.1.pl.incl.nfut.aff,a-na-mudang,a-na-Σ,a+na+Σ,a n a Σ,a + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak196,mudang,3.sg.1.pl.incl.nfut.aff,a-ni-mudang,a-ni-Σ,a+ni+Σ,a n i Σ,a + n i + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak197,mudang,3.sg.1.pl.incl.nfut.aff,aa-mudang,aa-Σ,aa+Σ,aa Σ,aa + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak198,mudang,3.pl.1.sg.nfut.aff,na-mudang,na-Σ,na+Σ,n a Σ,n a + Σ,unspecified,,optional_third,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak199,mudang,3.pl.1.sg.nfut.aff,an-na-mudang,an-na-Σ,an+na+Σ,a n n a Σ,a n + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak200,mudang,3.pl.1.pl.excl.nfut.aff,an-na-mudang,an-na-Σ,an+na+Σ,a n n a Σ,a n + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak201,mudang,3.pl.1.pl.incl.nfut.aff,an-na-mudang,an-na-Σ,an+na+Σ,a n n a Σ,a n + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak202,mudang,3.pl.1.pl.incl.nfut.aff,an-ni-mudang,an-ni-Σ,an+ni+Σ,a n n i Σ,a n + n i + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak203,mudang,3.sg.2.sg.nfut.aff,aa-mudang,aa-Σ,aa+Σ,aa Σ,aa + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak204,mudang,3.sg.2.pl.nfut.aff,a-na-mudang,a-na-Σ,a+na+Σ,a n a Σ,a + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak205,mudang,3.sg.2.pl.nfut.aff,aa-mudang,aa-Σ,aa+Σ,aa Σ,aa + Σ,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak206,mudang,3.pl.2.sg.nfut.aff,an-na-mudang,an-na-Σ,an+na+Σ,a n n a Σ,a n + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak207,mudang,3.pl.2.pl.nfut.aff,na-mudang,na-Σ,na+Σ,n a Σ,n a + Σ,unspecified,,optional_third,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak208,mudang,3.pl.2.pl.nfut.aff,an-na-mudang,an-na-Σ,an+na+Σ,a n n a Σ,a n + n a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak209,mudang,3.sg.3.sg.nfut.aff,a-mudang,a-Σ,a+Σ,a Σ,a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak210,mudang,3.sg.3.pl.nfut.aff,a-mudang,a-Σ,a+Σ,a Σ,a + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak211,mudang,3.pl.3.sg.nfut.aff,an-mudang,an-Σ,an+Σ,a n Σ,a n + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak212,mudang,3.pl.3.pl.nfut.aff,an-mudang,an-Σ,an+Σ,a n Σ,a n + Σ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak213,che,1.sg.nfut.neg,che-mak-ing,Σ-mak-ing,Σ+mak+ing,Σ m a k i ŋ,Σ + m a k + i ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak214,che,1.sg.nfut.neg,che-ma-ing,Σ-ma-ing,Σ+ma+ing,Σ m a i ŋ,Σ + m a + i ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak215,che,1.sg.nfut.neg,che-ming,Σ-ming,Σ+m+ing,Σ m i ŋ,Σ + m + i ŋ,informal; sociolect_var,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak216,che,1.pl.excl.nfut.neg,che-mak-ung,Σ-mak-ung,Σ+mak+ung,Σ m a k u ŋ,Σ + m a k + u ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak217,che,1.pl.excl.nfut.neg,che-ma-ung,Σ-ma-ung,Σ+ma+ung,Σ m a u ŋ,Σ + m a + u ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak218,che,1.pl.excl.nfut.neg,che-mung,Σ-mung,Σ+mung,Σ m u ŋ,Σ + m u ŋ,informal; sociolect_var,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak219,che,1.pl.incl.nfut.neg,che-mak-sing,Σ-mak-sing,Σ+mak+s+ing,Σ m a k s i ŋ,Σ + m a k + s + i ŋ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak220,mudang,1.sg.2.sg.nfut.neg,na-mudang-mak-ing,na-Σ-mak-ing,na+Σ+mak+ing,n a Σ m a k i ŋ,n a + Σ + m a k + i ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak221,mudang,1.sg.2.sg.nfut.neg,na-mudang-ma-ing,na-Σ-ma-ing,na+Σ+ma+ing,n a Σ m a i ŋ,n a + Σ + m a + i ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak222,mudang,1.sg.2.sg.nfut.neg,na-mudang-ming,na-Σ-ming,na+Σ+m+ing,n a Σ m i ŋ,n a + Σ + m + i ŋ,informal; sociolect_var,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak223,mudang,1.sg.2.pl.nfut.neg,mudang-mak-ing,Σ-mak-ing,Σ+mak+ing,Σ m a k i ŋ,Σ + m a k + i ŋ,sociolect_var,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak224,mudang,1.sg.2.pl.nfut.neg,mudang-ma-ing,Σ-ma-ing,Σ+ma+ing,Σ m a i ŋ,Σ + m a + i ŋ,sociolect_var,fusion,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak225,mudang,1.sg.2.pl.nfut.neg,mudang-ming,Σ-ming,Σ+m+ing,Σ m i ŋ,Σ + m + i ŋ,sociolect_var,fusion,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak226,mudang,1.sg.2.pl.nfut.neg,na-mudang-mak-ing,na-Σ-mak-ing,na+Σ+mak+ing,n a Σ m a k i ŋ,n a + Σ + m a k + i ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak227,mudang,1.sg.2.pl.nfut.neg,na-mudang-ma-ing,na-Σ-ma-ing,na+Σ+ma+ing,n a Σ m a i ŋ,n a + Σ + m a + i ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak228,mudang,1.sg.2.pl.nfut.neg,na-mudang-ming,na-Σ-ming,na+Σ+m+ing,n a Σ m i ŋ,n a + Σ + m + i ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak229,mudang,1.pl.excl.2.sg.nfut.neg,na-mudang-mak-ung,na-Σ-mak-ung,na+Σ+mak+ung,n a Σ m a k u ŋ,n a + Σ + m a k + u ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak230,mudang,1.pl.excl.2.sg.nfut.neg,na-mudang-mung,na-Σ-mung,na+Σ+mung,n a Σ m u ŋ,n a + Σ + m u ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak231,mudang,1.pl.excl.2.pl.nfut.neg,mudang-mung,Σ-mung,Σ+mung,Σ m u ŋ,Σ + m u ŋ,sociolect_var,fusion,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak232,mudang,1.pl.excl.2.pl.nfut.neg,mudang-ma-ung,Σ-ma-ung,Σ+ma+ung,Σ m a u ŋ,Σ + m a + u ŋ,sociolect_var,fusion,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak233,mudang,1.pl.excl.2.pl.nfut.neg,mudang-mak-ung,Σ-mak-ung,Σ+mak+ung,Σ m a k u ŋ,Σ + m a k + u ŋ,sociolect_var,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak234,mudang,1.pl.excl.2.pl.nfut.neg,na-mudang-mak-ung,na-Σ-mak-ung,na+Σ+mak+ung,n a Σ m a k u ŋ,n a + Σ + m a k + u ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak235,mudang,1.pl.excl.2.pl.nfut.neg,na-mudang-mung,na-Σ-mung,na+Σ+mung,n a Σ m u ŋ,n a + Σ + m u ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak236,mudang,1.sg.3.sg.nfut.neg,mudang-mak-ing,Σ-mak-ing,Σ+mak+ing,Σ m a k i ŋ,Σ + m a k + i ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak237,mudang,1.sg.3.sg.nfut.neg,mudang-ma-ing,Σ-ma-ing,Σ+ma+ing,Σ m a i ŋ,Σ + m a + i ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak238,mudang,1.sg.3.sg.nfut.neg,mudang-ming,Σ-ming,Σ+m+ing,Σ m i ŋ,Σ + m + i ŋ,informal; sociolect_var,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak239,mudang,1.sg.3.pl.nfut.neg,mudang-mak-ing,Σ-mak-ing,Σ+mak+ing,Σ m a k i ŋ,Σ + m a k + i ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak240,mudang,1.sg.3.pl.nfut.neg,mudang-ma-ing,Σ-ma-ing,Σ+ma+ing,Σ m a i ŋ,Σ + m a + i ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak241,mudang,1.sg.3.pl.nfut.neg,mudang-ming,Σ-ming,Σ+m+ing,Σ m i ŋ,Σ + m + i ŋ,informal; sociolect_var,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak242,mudang,1.pl.excl.3.sg.nfut.neg,mudang-mak-ung,Σ-mak-ung,Σ+mak+ung,Σ m a k u ŋ,Σ + m a k + u ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak243,mudang,1.pl.excl.3.sg.nfut.neg,mudang-ma-ung,Σ-ma-ung,Σ+ma+ung,Σ m a u ŋ,Σ + m a + u ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak244,mudang,1.pl.excl.3.sg.nfut.neg,mudang-mung,Σ-mung,Σ+mung,Σ m u ŋ,Σ + m u ŋ,informal; sociolect_var,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak245,mudang,1.pl.incl.3.sg.nfut.neg,mudang-mak-sing,Σ-mak-sing,Σ+mak+s+ing,Σ m a k s i ŋ,Σ + m a k + s + i ŋ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak246,mudang,1.pl.excl.3.pl.nfut.neg,mudang-mak-ung,Σ-mak-ung,Σ+mak+ung,Σ m a k u ŋ,Σ + m a k + u ŋ,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak247,mudang,1.pl.excl.3.pl.nfut.neg,mudang-ma-ung,Σ-ma-ung,Σ+ma+ung,Σ m a u ŋ,Σ + m a + u ŋ,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak248,mudang,1.pl.incl.3.pl.nfut.neg,mudang-mak-sing,Σ-mak-sing,Σ+mak+s+ing,Σ m a k s i ŋ,Σ + m a k + s + i ŋ,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak249,che,2.sg.nfut.neg,che-mak-che,Σ-mak-Σ,Σ+mak+che,Σ m a k tʃ e,Σ + m a k + tʃ e,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak250,che,2.sg.nfut.neg,che-mak-che-eh,Σ-mak-Σ-eh,Σ+mak+che+eh,Σ m a k tʃ e e h,Σ + m a k + tʃ e + e h,sociolect_var,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak251,che,2.pl.nfut.neg,che-mak-cha-u,Σ-mak-cha-u,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak252,che,2.pl.nfut.neg,che-mak-chu,Σ-mak-chu,Σ+mak+chu,Σ m a k tʃ u,Σ + m a k + tʃ u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak253,che,2.sg.1.sg.nfut.neg,na-mudang-mak-che,na-Σ-mak-Σ,na+Σ+mak+che,n a Σ m a k tʃ e,n a + Σ + m a k + tʃ e,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak254,che,2.sg.1.pl.excl.nfut.neg,mudang-mak-che,Σ-mak-Σ,Σ+mak+che,Σ m a k tʃ e,Σ + m a k + tʃ e,sociolect_var,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak255,che,2.sg.1.pl.excl.nfut.neg,na-mudang-mak-che,na-Σ-mak-Σ,na+Σ+mak+che,n a Σ m a k tʃ e,n a + Σ + m a k + tʃ e,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak256,mudang,2.pl.1.sg.nfut.neg,na-mudang-mak-cha-u,na-Σ-mak-cha-u,na+Σ+mak+cha+u,n a Σ m a k tʃ a u,n a + Σ + m a k + tʃ a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak257,mudang,2.pl.1.sg.nfut.neg,na-mudang-mak-chu,na-Σ-mak-chu,na+Σ+mak+chu,n a Σ m a k tʃ u,n a + Σ + m a k + tʃ u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak258,mudang,2.pl.1.pl.excl.nfut.neg,mudang-mak-cha-u,Σ-mak-cha-u,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,sociolect_var,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak259,mudang,2.pl.1.pl.excl.nfut.neg,mudang-mak-chu,Σ-mak-chu,Σ+mak+chu,Σ m a k tʃ u,Σ + m a k + tʃ u,sociolect_var,fusion,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak260,mudang,2.pl.1.pl.excl.nfut.neg,na-mudang-mak-cha-u,na-Σ-mak-cha-u,na+Σ+mak+cha+u,n a Σ m a k tʃ a u,n a + Σ + m a k + tʃ a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak261,mudang,2.pl.1.pl.excl.nfut.neg,na-mudang-mak-chu,na-Σ-mak-chu,na+Σ+mak+chu,n a Σ m a k tʃ u,n a + Σ + m a k + tʃ u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak262,che,2.sg.3.sg.nfut.neg,mudang-mak-che,Σ-mak-Σ,Σ+mak+che,Σ m a k tʃ e,Σ + m a k + tʃ e,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak263,che,2.sg.3.pl.nfut.neg,mudang-mak-che,Σ-mak-Σ,Σ+mak+che,Σ m a k tʃ e,Σ + m a k + tʃ e,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak264,mudang,2.pl.3.sg.nfut.neg,mudang-mak-cha-u,Σ-mak-cha-u,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak265,mudang,2.pl.3.sg.nfut.neg,mudang-mak-chu,Σ-mak-chu,Σ+mak+chu,Σ m a k tʃ u,Σ + m a k + tʃ u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak266,mudang,2.pl.3.pl.nfut.neg,mudang-mak-cha-u,Σ-mak-cha-u,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak267,mudang,2.pl.3.pl.nfut.neg,mudang-mak-chu,Σ-mak-chu,Σ+mak+chu,Σ m a k tʃ u,Σ + m a k + tʃ u,unspecified,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak268,che,3.sg.nfut.neg,che-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak269,che,3.pl.nfut.neg,che-mak-u,Σ-mak-u,Σ+mak+u,Σ m a k u,Σ + m a k + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak270,che,3.pl.nfut.neg,che-ma-u,Σ-ma-u,Σ+ma+u,Σ m a u,Σ + m a + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak271,che,3.pl.nfut.neg,che-mu,Σ-mu,Σ+mu,Σ m u,Σ + m u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak272,mudang,3.sg.1.sg.nfut.neg,na-mudang-mak,na-Σ-mak,na+Σ+mak,n a Σ m a k,n a + Σ + m a k,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak273,mudang,3.sg.1.pl.excl.nfut.neg,na-mudang-mak,na-Σ-mak,na+Σ+mak,n a Σ m a k,n a + Σ + m a k,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak274,mudang,3.sg.1.pl.incl.nfut.neg,na-mudang-mak,na-Σ-mak,na+Σ+mak,n a Σ m a k,n a + Σ + m a k,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak275,mudang,3.pl.1.sg.nfut.neg,na-mudang-mak-u,na-Σ-mak-u,na+Σ+mak+u,n a Σ m a k u,n a + Σ + m a k + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak276,mudang,3.pl.1.sg.nfut.neg,na-mudang-ma-u,na-Σ-ma-u,na+Σ+ma+u,n a Σ m a u,n a + Σ + m a + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak277,mudang,3.pl.1.pl.excl.nfut.neg,mudang-mak-u,Σ-mak-u,Σ+mak+u,Σ m a k u,Σ + m a k + u,formal,,optional_sap_o,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak278,mudang,3.pl.1.pl.excl.nfut.neg,na-mudang-mak-u,na-Σ-mak-u,na+Σ+mak+u,n a Σ m a k u,n a + Σ + m a k + u,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak279,mudang,3.pl.1.pl.excl.nfut.neg,na-mudang-ma-u,na-Σ-ma-u,na+Σ+ma+u,n a Σ m a u,n a + Σ + m a + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak280,mudang,3.pl.1.pl.incl.nfut.neg,na-mudang-mak-u,na-Σ-mak-u,na+Σ+mak+u,n a Σ m a k u,n a + Σ + m a k + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak281,mudang,3.pl.1.pl.incl.nfut.neg,ni-mudang-ma-u,ni-Σ-ma-u,ni+Σ+ma+u,n i Σ m a u,n i + Σ + m a + u,informal; sociolect_var,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak282,mudang,3.pl.1.pl.incl.nfut.neg,na-mudang-ma-u,na-Σ-ma-u,na+Σ+ma+u,n a Σ m a u,n a + Σ + m a + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak283,mudang,3.sg.2.sg.nfut.neg,na-mudang-mak,na-Σ-mak,na+Σ+mak,n a Σ m a k,n a + Σ + m a k,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak284,mudang,3.sg.2.pl.nfut.neg,na-mudang-mak,na-Σ-mak,na+Σ+mak,n a Σ m a k,n a + Σ + m a k,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak285,mudang,3.pl.2.sg.nfut.neg,na-mudang-mak-u,na-Σ-mak-u,na+Σ+mak+u,n a Σ m a k u,n a + Σ + m a k + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak286,mudang,3.pl.2.sg.nfut.neg,na-mudang-ma-u,na-Σ-ma-u,na+Σ+ma+u,n a Σ m a u,n a + Σ + m a + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak287,mudang,3.pl.2.pl.nfut.neg,na-mudang-mak-u,na-Σ-mak-u,na+Σ+mak+u,n a Σ m a k u,n a + Σ + m a k + u,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak288,mudang,3.pl.2.pl.nfut.neg,na-mudang-ma-u,na-Σ-ma-u,na+Σ+ma+u,n a Σ m a u,n a + Σ + m a + u,unspecified,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak289,mudang,3.sg.3.sg.nfut.neg,mudang-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak290,mudang,3.sg.3.pl.nfut.neg,mudang-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak291,mudang,3.pl.3.sg.nfut.neg,mudang-mak-u,Σ-mak-u,Σ+mak+u,Σ m a k u,Σ + m a k + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak292,mudang,3.pl.3.sg.nfut.neg,mudang-ma-u,Σ-ma-u,Σ+ma+u,Σ m a u,Σ + m a + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak293,mudang,3.pl.3.pl.nfut.neg,mudang-mak-u,Σ-mak-u,Σ+mak+u,Σ m a k u,Σ + m a k + u,formal,,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak
+komkakchingmantak294,mudang,3.pl.3.pl.nfut.neg,mudang-ma-u,Σ-ma-u,Σ+ma+u,Σ m a u,Σ + m a + u,informal,fusion,,Kanshouwa2026KakchingMantakKom,nopage,komkakchingmantak

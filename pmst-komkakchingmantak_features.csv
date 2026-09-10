@@ -1,0 +1,12 @@
+value_id,label,feature,unimorph,language_id
+excl,exclusive,clusivity,EXCL,komkakchingmantak
+incl,inclusive,clusivity,INCL,komkakchingmantak
+pl,plural,number,PL,komkakchingmantak
+sg,singular,number,SG,komkakchingmantak
+1,first person,person,1,komkakchingmantak
+2,second person,person,2,komkakchingmantak
+3,third person,person,3,komkakchingmantak
+aff,affirmative,polarity,POS,komkakchingmantak
+neg,negative,polarity,NEG,komkakchingmantak
+fut,future,tense_aspect,FUT,komkakchingmantak
+nfut,non-future,tense_aspect,,komkakchingmantak

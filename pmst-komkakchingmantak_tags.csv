@@ -1,0 +1,9 @@
+tag_id,tag_column_name,comment,language_id
+fusion,analysis_tag,form exhibits fusion (morphophonology) in (at least) one of the morphemes,komkakchingmantak
+optional_sap_o,overabundance_tag,form does not contain a marker for SAP_O (that is there in other forms with the same scenario),komkakchingmantak
+optional_third,overabundance_tag,form does not contain a marker for third person (that is there in other forms with the same scenario),komkakchingmantak
+dialect_var,variants_tag,form is from other dialect,komkakchingmantak
+formal,variants_tag,form is used in formal contexts,komkakchingmantak
+informal,variants_tag,form is informal/colloquial,komkakchingmantak
+sociolect_var,variants_tag,form is from other sociolect,komkakchingmantak
+unspecified,variants_tag,form is not used in special contexts,komkakchingmantak
